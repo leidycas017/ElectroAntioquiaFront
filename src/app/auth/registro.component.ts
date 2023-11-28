@@ -1,3 +1,4 @@
+
 import { Component, OnInit } from '@angular/core';
 import { TokenService } from '../service/token.service';
 import { AuthService } from '../service/auth.service';
@@ -49,3 +50,4 @@ export class RegistroComponent implements OnInit {
   }
 
 }
+
